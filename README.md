@@ -24,6 +24,13 @@ the profile page.
 - Closing the app window should close the session.
 - Remember this is a mobile­based web­app, so we would like to be compatible with major
 browsers (Safari, Chrome, Firefox, Opera).
+- Please provide a short summary detailing anything you think is relevant, for _example_:
+  - Installation steps
+  - How to run your code / tests
+  - Where to find your code
+  - What would you have done differently if you had had more time
+  - Etc.
+- Please send your results as a [git bundle](https://git-scm.com/docs/git-bundle).
 
 
 #Profile Page
