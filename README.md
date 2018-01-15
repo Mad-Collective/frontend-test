@@ -19,7 +19,7 @@ even if the user returns to the home page.
 the profile page.
 
 ## Other:
-- Libraries are ok, but please don't use any frameworks (angular, ember, react)
+- Please don't use any libraries or frameworks (jquery, bootstrap, angular)
 - Please don't use any automatic code generation
 - Closing the app window should close the session.
 - Remember this is a mobile­based web­app, so we would like to be compatible with major
