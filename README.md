@@ -14,7 +14,7 @@ original colors should return.
 - When the chat is opened, a random message from the other user should appear.
 - Users should be able to send messages from the chat window.
 - The message history should remain in the chat window for the duration of the session,
-even if the user returns to the home page.
+even if the user returns to the profile page or refreshes the whole page.
 - When the user clicks the avatar on the chat page, or the back button, he should go to
 the profile page.
 
