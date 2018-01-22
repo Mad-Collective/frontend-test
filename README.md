@@ -19,7 +19,6 @@ the profile page.
 ## Other:
 - The message history and friendship status should persist when user navigates from one view to another or refreshes the page.
 - Please don't use any libraries or frameworks (jquery, bootstrap, angular)
-- Please don't use any automatic code generation
 - Usage of bundlers, CSS preprocessors and task runners is encouraged 
 - Closing the app window should close the session.
 - Remember this is a mobile­based web­app, so we would like to be compatible with major
