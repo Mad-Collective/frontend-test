@@ -13,12 +13,11 @@ original colors should return.
 ## Chat page:
 - When the chat is opened, a random message from the other user should appear.
 - Users should be able to send messages from the chat window.
-- The message history should remain in the chat window for the duration of the session,
-even if the user returns to the home page.
 - When the user clicks the avatar on the chat page, or the back button, he should go to
 the profile page.
 
 ## Other:
+- The message history and friendship status should persist when user navigates from one view to another or refreshes the page.
 - Please don't use any libraries or frameworks (jquery, bootstrap, angular)
 - Please don't use any automatic code generation
 - Usage of bundlers, CSS preprocessors and task runners is encouraged 
