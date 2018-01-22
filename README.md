@@ -21,6 +21,7 @@ the profile page.
 ## Other:
 - Please don't use any libraries or frameworks (jquery, bootstrap, angular)
 - Please don't use any automatic code generation
+- Usage of bundlers, CSS preprocessors and task runners is encouraged 
 - Closing the app window should close the session.
 - Remember this is a mobile­based web­app, so we would like to be compatible with major
 browsers (Safari, Chrome, Firefox, Opera).
