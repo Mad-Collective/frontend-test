@@ -20,6 +20,8 @@ the profile page.
 - Closing the app window should close the session.
 
 # Other
+- Assume the  html for the chat and profile is already on the page
+- Don't create your own "template engine" 
 - Please don't use any libraries or frameworks (jquery, bootstrap, angular)
 - Usage of bundlers, CSS preprocessors and task runners is encouraged 
 - Please provide a short summary detailing anything you think is relevant, for _example_:
